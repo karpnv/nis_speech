@@ -1,0 +1,11 @@
+1. Текст: В ЧТ 4 числа 2012 г. в 16:15 случилось нечто невероятное, неописуемое, непонятное и т. д. Это было вау! В 16:19, тем не менее, этого уже не было видно.
+
+Нормализованный текст: В четверг четвертого числа две тысячи двенадцатого года в шестнадцать пятнадцать случилось нечто невероятное, неописуемое, непонятное и так далее. Это было вау! В шестнадцать девятнадцать, тем не менее, этого уже не было видно.
+
+2. Текст: Товар будет доставлен в РФ, г. Н. Новгород, в постамат на ул. Мещерский б-р, 13. Постамат работает с 9 до 21 с ПН по ВС без выходных и перерыва на обед. Будем вас ждать! 
+
+Нормализованный текст: Товар будет доставлен в Российскую Федерацию, город Нижний Новгород, в постамат на улицу Мещерский бульвар, тринадцать. Постамат работает с девяти до двадцати одного с понедельника по воскресенье без выходных и перерыва на обед. Будем вас ждать! 
+
+3. Текст: Welcome to the 5th meeting of WHO. The presentations will begin at 10:00 at the main stage. If you want to apply as a speaker, you can do it on the 1st day of the meeting at table No. 12. The topic is ecology, e.g., global warming, endangered species, etc.
+
+Нормализованный текст:Welcome to the fifth meeting of W H O. The presentations will begin at ten o’clock at the main stage. If you want to apply as a speaker, you can do it on the first day of the meeting at table number twelve. The topic is ecology, for example global warming, endangered species, et cetera.
